@@ -9,7 +9,7 @@
 #define OFFINVX 0
 #define OFFINVY 50
 
-#define CNTSHOW 6
+#define CNTSHOW 5
 #define CNTSLEEP 50
 
 #include <QProcess>
